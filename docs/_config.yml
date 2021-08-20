@@ -1,0 +1,13 @@
+
+# Site settings
+title: Thing Constellation
+#email: janetyc@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Thing Constellation is a research project that enable designers to observe social network of domestic objects using novel perspectives.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "thingconstellation.github.io" # the base hostname & protocol for your site
+#twitter_username: janetyc
+#github_username:  janetyc
+
+# Build settings
+markdown: kramdown
